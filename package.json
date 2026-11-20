@@ -1,0 +1,17 @@
+{
+  "name": "tanushka-portfolio",
+  "version": "1.0.0",
+  "description": "Developer portfolio served by Node.js and Express, with a projects API and a contact form API. Runs in Docker.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Tanushka",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

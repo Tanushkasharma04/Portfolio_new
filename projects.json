@@ -1,0 +1,39 @@
+[
+  {
+    "id": "codetrack",
+    "name": "CodeTrack",
+    "points": [
+      "Designed relational PostgreSQL schemas to manage user data, coding challenges, and platform activity.",
+      "Developed REST APIs using Node.js and Express.js for communication between the frontend and database.",
+      "Designed and indexed database tables to support efficient data retrieval and structured data storage."
+    ],
+    "tags": ["Node.js", "Express.js", "PostgreSQL", "REST API"],
+    "link": { "url": "https://github.com/CodeTrackMP/CodeTrack", "label": "View on GitHub" }
+  },
+  {
+    "id": "skin-lesion-classification",
+    "name": "AI-Based Skin Lesion Classification (HAM10000)",
+    "points": [
+      "Performed exploratory data analysis and preprocessing on the HAM10000 skin lesion dataset to analyze class distribution, identify class imbalance, and prepare image data for classification.",
+      "Used Python, Pandas, NumPy, and Matplotlib for data analysis and visualization."
+    ],
+    "tags": ["Python", "Pandas", "NumPy", "Matplotlib"],
+    "link": {
+      "url": "https://github.com/Tanushkasharma04/Data-Analysis/blob/main/Skin_disease_Prediction.ipynb",
+      "label": "View Notebook on GitHub"
+    }
+  },
+  {
+    "id": "salary-prediction",
+    "name": "Salary Prediction",
+    "points": [
+      "Developed a web-based salary prediction application with a user-friendly frontend using HTML, CSS, and JavaScript.",
+      "Created an interactive form to collect user inputs such as experience, education, and job role and send them to the prediction backend."
+    ],
+    "tags": ["HTML", "CSS", "JavaScript", "Python"],
+    "link": {
+      "url": "https://github.com/Tanushkasharma04/Data-Analysis/blob/main/Copy_of_Salary_Prediction.ipynb",
+      "label": "View Notebook on GitHub"
+    }
+  }
+]
