@@ -1,4 +1,6 @@
-# Tanushka's Portfolio (Node.js + Express + Docker)
+# Portfolio_new
+
+## Tanushka's Portfolio (Node.js + Express + Docker)
 
 A personal portfolio served by a Node.js and Express backend. The projects shown on the page are loaded from a REST API, and visitors can send me a message through a contact form that is validated and stored by the server. The app is packaged with Docker so it runs the same way on any machine or host.
 
@@ -16,7 +18,7 @@ A personal portfolio served by a Node.js and Express backend. The projects shown
 
 - **Backend:** Node.js, Express.js
 - **Frontend:** HTML5, CSS3 (Flexbox, Grid), vanilla JavaScript
-- **DevOps:** Docker, deployed on Render
+- **DevOps:** Docker, Render deployment pending
 
 ## API
 
